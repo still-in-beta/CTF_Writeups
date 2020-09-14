@@ -6,7 +6,7 @@ The problem states:
 > - There is no symbols in the villages names.
 And has a zip file attached, with three images inside. 
 
-Here it is, if you wish to download: [zipfile]
+The zip file is in this directory, if you wish to download it.
 
 This challenge is very long and requires LOTS of brute forcing. Google's Reverse Image search and Google Lens
 are your best friends. I would suggest using more than one team member to help. Be prepared for lots of trial
