@@ -7,6 +7,7 @@ We can open the data file in wireshark. Unfortunately, there are far too many re
 Since we are looking for anything related to alice, it wouldn't be a bad idea to search for Alice's name. We can type:
 > frame contains "alice"
 into the search bar. When we do that, two results show up.
+![le image](https://github.com/still-in-beta/CTF_Writeups/blob/master/2020/csaw_red/recovery/Screen%20Shot%202020-09-28%20at%209.22.48%20PM.png)
 
 One of them has Alice's email address. If we netcat to the link specified, it asks us:
 > *** Recovery *** To get the flag, answer this question: what is Alice's email address?
